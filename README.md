@@ -2,9 +2,9 @@
 Building a multi tier architecture by intergrating jenkims docker  and kubernetes 
 #install and configure docker on Ubuntu
 
-sudo apt update
-sudo apt install docker.io -y
-sudo systemctl start docker
++sudo apt update
++sudo apt install docker.io -y
++sudo systemctl start docker
 
 
 ----
